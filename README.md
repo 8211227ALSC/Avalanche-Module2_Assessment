@@ -1,10 +1,10 @@
 # Avalanche-Module2_Assessment
 This project is the final assessment of Module 2 of Avalanche (Smart Contract Management - ETH + AVAX)
 
-##Description
+## Description
 These code snippets collectively facilitate the development, deployment, and interaction with smart contracts on the Ethereum blockchain. This Solidity smart contract serves as a financial management tool, allowing users to deposit and withdraw ether while maintaining transaction records and ensuring account balances remain accurate. It provides a user-friendly interface for interacting with the deployed contract, enabling actions such as connecting MetaMask wallets, viewing balances, and conducting transactions. 
 
-###How to Start-Up
+### How to Start-Up
 Follow these steps to execute the code:
 
 1. Open two additional terminals in your VS code
